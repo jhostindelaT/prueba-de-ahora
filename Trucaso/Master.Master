@@ -14,9 +14,13 @@
     <form id="form1" runat="server">
     <div>
 
+
+        <br />
+        <hr />
         <a href="index.aspx"> Home</a>
         <a href="Ayuda.aspx"> Ayuda</a>
-
+        <hr />
+        <br />
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         
         </asp:ContentPlaceHolder>

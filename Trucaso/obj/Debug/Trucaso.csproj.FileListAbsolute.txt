@@ -1,0 +1,6 @@
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\bin\Trucaso.dll.config
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\bin\Trucaso.dll
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\bin\Trucaso.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\obj\Debug\Trucaso.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\obj\Debug\Trucaso.dll
+c:\users\programacion\documents\visual studio 2013\Projects\Trucaso\Trucaso\obj\Debug\Trucaso.pdb
